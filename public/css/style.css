@@ -1,0 +1,17 @@
+html, body {
+	background-color : #2D6ED6;
+}
+.card-body {
+	font-weight: 500;
+	height : 331px;
+	overflow-y: scroll;
+}
+.card-body > p{
+	margin : 0px;
+}
+.user {
+	color : #3498db;
+}
+.exit {
+	color : red;
+}
